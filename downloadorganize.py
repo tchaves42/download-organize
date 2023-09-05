@@ -140,7 +140,7 @@ if __name__ == "__main__":
     destination_path = "your/destination/folder/path"
 
     destination_folders = {
-    'Applications': os.path.join(destination_path, 'Applications'),
+    'Executable': os.path.join(destination_path, 'Executable'),
     'Compact': os.path.join(destination_path, 'Compact'),
     'Docs': os.path.join(destination_path, 'Docs'),
     'SpreadSheets': os.path.join(destination_path, 'SpreadSheets'),
