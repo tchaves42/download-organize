@@ -141,9 +141,8 @@ if __name__ == "__main__":
 
     destination_folders = {
     'Applications': os.path.join(destination_path, 'Applications'),
-    'Zip': os.path.join(destination_path, 'Zip'),
-    'PDFs': os.path.join(destination_path, 'PDFs'),
-    'WordDocs': os.path.join(destination_path, 'WordDocs'),
+    'Compact': os.path.join(destination_path, 'Compact'),
+    'Docs': os.path.join(destination_path, 'Docs'),
     'SpreadSheets': os.path.join(destination_path, 'SpreadSheets'),
     'PowerPoints': os.path.join(destination_path, 'PowerPoints'),
     'Images': os.path.join(destination_path, 'Images'),
